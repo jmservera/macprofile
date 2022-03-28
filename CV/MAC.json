@@ -1,0 +1,856 @@
+{
+  "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.3/schema/schema.json",
+  "settings": {
+    "language": "EN",
+    "MACVersion": "0.3"
+  },
+  "aboutMe": {
+    "profile": {
+      "name": "Juan Manuel",
+      "surnames": "Servera Bondroit",
+      "title": "Cloud Solution Architect at Microsoft",
+      "description": "My greatest motivation is a desire to always learn and attempt new things. ",
+      "avatar": {
+        "alt": "profile-image",
+        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/28/db790a53-feb2-42ba-9c09-9ae04c2e66ea_507a74b00480d5ce636b.507a74b00480d5ce636b181718b284ce"
+      },
+      "location": {
+        "notes": "Madrid - Palma - Zurich"
+      }
+    },
+    "relevantLinks": [
+      {
+        "type": "linkedin",
+        "URL": "https://www.linkedin.com/in/jmservera/"
+      },
+      {
+        "type": "github",
+        "URL": "https://github.com/jmservera"
+      },
+      {
+        "type": "twitter",
+        "URL": "https://twitter.com/jmservera"
+      },
+      {
+        "type": "other",
+        "URL": "https://stackoverflow.com/users/107102"
+      },
+      {
+        "type": "other",
+        "URL": "http://jmblog.servezas.org"
+      }
+    ],
+    "interestingFacts": [
+      {
+        "topic": "Favorite editor",
+        "fact": "Visual Studio"
+      },
+      {
+        "topic": "First computer",
+        "fact": "Sinclair Spectrum"
+      }
+    ]
+  },
+  "experience": {
+    "jobs": [
+      {
+        "organization": {
+          "name": "Microsoft"
+        },
+        "roles": [
+          {
+            "name": "Principal Technical Evangelist",
+            "startDate": "2018-09-01",
+            "finishDate": "2019-07-01",
+            "challenges": [
+              {
+                "description": ""
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Microsoft"
+        },
+        "roles": [
+          {
+            "name": "Senior Cloud Solution Architect",
+            "startDate": "2019-07-01",
+            "finishDate": "2020-07-01",
+            "challenges": [
+              {
+                "description": ""
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Microsoft"
+        },
+        "roles": [
+          {
+            "name": "Sr. Partner Technical Strategist",
+            "startDate": "2020-07-01",
+            "finishDate": "2020-10-01",
+            "challenges": [
+              {
+                "description": ""
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Virgin Records"
+        },
+        "roles": [
+          {
+            "name": "Tech sales",
+            "startDate": "1992-01-01",
+            "finishDate": "1994-12-31"
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Microsoft"
+        },
+        "roles": [
+          {
+            "name": "Sr. Cloud Solution Architect - App Innovation",
+            "startDate": "2020-10-01",
+            "challenges": [
+              {
+                "description": ""
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "KRM Imatge"
+        },
+        "roles": [
+          {
+            "name": "IT Management",
+            "startDate": "1997-01-01",
+            "finishDate": "2000-10-31"
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Microsoft"
+        },
+        "roles": [
+          {
+            "name": "Technical Evangelist",
+            "startDate": "2015-02-01",
+            "finishDate": "2018-09-01",
+            "challenges": [
+              {
+                "description": ""
+              }
+            ],
+            "competences": [
+              {
+                "name": "Azure",
+                "type": "technology"
+              },
+              {
+                "name": "ASP.net",
+                "type": "technology"
+              },
+              {
+                "name": "MVC",
+                "type": "technology"
+              },
+              {
+                "name": "Visual Studio",
+                "type": "technology"
+              },
+              {
+                "name": "Power BI",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Babtec GmbH"
+        },
+        "roles": [
+          {
+            "name": "Senior Developer",
+            "startDate": "2000-11-01",
+            "finishDate": "2010-10-31",
+            "challenges": [
+              {
+                "description": "In this position I did the design, analysis and development of Computer Aided Quality solutions for industry. As it was a R&D department we used the latest technologies to create the future solutions the company would sell in mid-term. The products we developed are currently the main line of products of the company, we migreated a big C++ client application (+60 modules) to a C# distributed one, that allowed the company to reach bigger customers and provide better service to the current ones."
+              }
+            ],
+            "competences": [
+              {
+                "name": ".NET",
+                "type": "technology"
+              },
+              {
+                "name": "ASP.net",
+                "type": "technology"
+              },
+              {
+                "name": "SQLServer",
+                "type": "technology"
+              },
+              {
+                "name": "Oracle",
+                "type": "technology"
+              },
+              {
+                "name": "Sharepoint",
+                "type": "technology"
+              },
+              {
+                "name": "ASP",
+                "type": "technology"
+              },
+              {
+                "name": "ms-office",
+                "type": "technology"
+              },
+              {
+                "name": "framework",
+                "type": "technology"
+              },
+              {
+                "name": "vc++",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Microsoft Innovation Center | Tourism Technologies"
+        },
+        "roles": [
+          {
+            "name": "Technical Manager",
+            "startDate": "2010-10-01",
+            "finishDate": "2015-02-28",
+            "competences": [
+              {
+                "name": "Windows",
+                "type": "technology"
+              },
+              {
+                "name": "C++",
+                "type": "technology"
+              },
+              {
+                "name": "C#",
+                "type": "technology"
+              },
+              {
+                "name": ".NET",
+                "type": "technology"
+              },
+              {
+                "name": "Azure",
+                "type": "technology"
+              },
+              {
+                "name": "Sharepoint",
+                "type": "technology"
+              },
+              {
+                "name": "windows-phone",
+                "type": "technology"
+              },
+              {
+                "name": "surface",
+                "type": "technology"
+              },
+              {
+                "name": "direct3d",
+                "type": "technology"
+              },
+              {
+                "name": "kinect",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "projects": [
+      {
+        "details": {
+          "name": "Ejemplos Windows 8 C#",
+          "description": "Este proyecto recoge los ejemplos de los posts y tutoriales de Windows 8 que escribo en C#.",
+          "URL": "https://ejemplosw8cs.codeplex.com/"
+        },
+        "type": "openSource",
+        "roles": [
+          {
+            "name": "Developer",
+            "startDate": "2013-03-01"
+          }
+        ]
+      },
+      {
+        "details": {
+          "name": "Surface Tourist Office",
+          "description": "A sample of an application for a tourist office with surface",
+          "URL": "https://surfacetouristoffice.codeplex.com/"
+        },
+        "type": "openSource",
+        "roles": [
+          {
+            "name": "Developer",
+            "startDate": "2022-03-28"
+          }
+        ]
+      },
+      {
+        "details": {
+          "name": "Ejemplos Windows 8 Javascript",
+          "description": "Este proyecto pretende recoger todos los ejemplos de aplicaciones metro para Windows 8 en JavaScript que vaya desarrollando para fines didácticos.",
+          "URL": "https://ejemplosw8js.codeplex.com/"
+        },
+        "type": "openSource",
+        "roles": [
+          {
+            "name": "Developer",
+            "startDate": "2012-03-01"
+          }
+        ]
+      },
+      {
+        "details": {
+          "name": "Sharepoint WinRT Client",
+          "description": "A PoC to connect to SharePoint Online services, perform login and get info using REST services.",
+          "URL": "https://sharepointwinrt.codeplex.com/"
+        },
+        "type": "openSource",
+        "roles": [
+          {
+            "name": "Developer",
+            "startDate": "2012-05-01"
+          }
+        ]
+      },
+      {
+        "details": {
+          "name": "WP7 HTML5 Examples",
+          "description": "Some small examples to demonstrate the use of HTML5 to create offline applications in Windows Phone 7, that can be easily moved to other platforms.",
+          "URL": "https://wp7html5examples.codeplex.com/"
+        },
+        "type": "openSource",
+        "roles": [
+          {
+            "name": "Developer",
+            "startDate": "2011-08-01"
+          }
+        ]
+      },
+      {
+        "details": {
+          "name": "LateNight WP7 Animations Library",
+          "description": "A small library for enhancing animations in WP7",
+          "URL": "https://latenightwp7anim.codeplex.com/"
+        },
+        "type": "openSource",
+        "roles": [
+          {
+            "name": "Developer",
+            "startDate": "2011-07-01"
+          }
+        ]
+      },
+      {
+        "details": {
+          "name": "Kinect Travelling",
+          "description": "Kinect Travelling permitirá una experiencia por inmersión en un destino turístico.",
+          "URL": "https://kinecttravelling.codeplex.com/"
+        },
+        "type": "openSource",
+        "roles": [
+          {
+            "name": "Developer",
+            "startDate": "2011-06-01"
+          }
+        ]
+      },
+      {
+        "details": {
+          "name": "Ejemplos WP7 Silverlight",
+          "description": "Los ejemplos en silverlight para WP7 pueden servir de base de las aplicaciones más comunes. Todos los ejemplos son en lenguaje C#.",
+          "URL": "https://ejemploswp7silver.codeplex.com/"
+        },
+        "type": "openSource",
+        "roles": [
+          {
+            "name": "Developer",
+            "startDate": "2011-01-01"
+          }
+        ]
+      },
+      {
+        "details": {
+          "name": "Ejemplos WP7 Silverlight",
+          "description": "Los ejemplos en silverlight para WP7 pueden servir de base de las aplicaciones más comunes. Todos los ejemplos son en lenguaje C#.",
+          "URL": "http://ejemploswp7silver.codeplex.com/"
+        },
+        "type": "openSource",
+        "roles": [
+          {
+            "name": "Developer",
+            "startDate": "2011-01-01"
+          }
+        ]
+      },
+      {
+        "details": {
+          "name": "MiBiblioteca",
+          "description": "Aplicación muy simple para realizar búsquedas en un listado de libros en una aplicación de escritorio y en una móvil.",
+          "URL": "http://mibiblioteca.codeplex.com/"
+        },
+        "type": "openSource",
+        "roles": [
+          {
+            "name": "Developer",
+            "startDate": "2010-04-01"
+          }
+        ]
+      },
+      {
+        "details": {
+          "name": "MiBiblioteca",
+          "description": "Aplicación muy simple para realizar búsquedas en un listado de libros en una aplicación de escritorio y en una móvil.",
+          "URL": "https://mibiblioteca.codeplex.com/"
+        },
+        "type": "openSource",
+        "roles": [
+          {
+            "name": "Developer",
+            "startDate": "2010-04-01"
+          }
+        ]
+      },
+      {
+        "details": {
+          "name": "connectthedots",
+          "description": "Connect tiny devices to Microsoft Azure services to build IoT solutions",
+          "URL": "https://github.com/jmservera/connectthedots"
+        },
+        "type": "openSource",
+        "roles": [
+          {
+            "name": "Developer",
+            "startDate": "2015-03-01",
+            "competences": [
+              {
+                "name": "C#",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "details": {
+          "name": "iot",
+          "description": "A demo on what you can do with a Netduino, a Raspberry and the IoT services on Azure",
+          "URL": "https://github.com/jmservera/iot"
+        },
+        "type": "openSource",
+        "roles": [
+          {
+            "name": "Developer",
+            "startDate": "2015-02-01",
+            "competences": [
+              {
+                "name": "C#",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "details": {
+          "name": "iot",
+          "description": "A demo on what you can do with a Netduino, a Raspberry and the IoT services on Azure",
+          "URL": "https://github.com/netsaimada/iot"
+        },
+        "type": "openSource",
+        "roles": [
+          {
+            "name": "Developer",
+            "startDate": "2014-12-01",
+            "competences": [
+              {
+                "name": "C#",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "details": {
+          "name": "RoslynDemos",
+          "description": "A simple set of the Roslyn compiler demos",
+          "URL": "https://github.com/jmservera/RoslynDemos"
+        },
+        "type": "openSource",
+        "roles": [
+          {
+            "name": "Developer",
+            "startDate": "2014-10-01",
+            "competences": [
+              {
+                "name": "C#",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "details": {
+          "name": "SharedVM",
+          "description": "A WPF/W8/WP8 app with shared VM using MVVM Light",
+          "URL": "https://github.com/jmservera/SharedVM"
+        },
+        "type": "openSource",
+        "roles": [
+          {
+            "name": "Developer",
+            "startDate": "2014-10-01",
+            "competences": [
+              {
+                "name": "C#",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "details": {
+          "name": "FizzBuzzKata",
+          "description": "La Kata de la sesión Randori del 16/10/2014",
+          "URL": "https://github.com/netsaimada/FizzBuzzKata"
+        },
+        "type": "openSource",
+        "roles": [
+          {
+            "name": "Developer",
+            "startDate": "2014-10-01",
+            "competences": [
+              {
+                "name": "C#",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "details": {
+          "name": "AllInOne",
+          "URL": "https://github.com/jmservera/AllInOne"
+        },
+        "type": "openSource",
+        "roles": [
+          {
+            "name": "Developer",
+            "startDate": "2014-10-01",
+            "competences": [
+              {
+                "name": "C++",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "details": {
+          "name": "CSYieldDemos",
+          "description": "A demo on how the yield keyword works in C#",
+          "URL": "https://github.com/jmservera/CSYieldDemos"
+        },
+        "type": "openSource",
+        "roles": [
+          {
+            "name": "Developer",
+            "startDate": "2014-10-01",
+            "competences": [
+              {
+                "name": "C#",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "details": {
+          "name": "netsaimada.github.io",
+          "description": "Página de Netsaimada en Github",
+          "URL": "https://github.com/netsaimada/netsaimada.github.io"
+        },
+        "type": "openSource",
+        "roles": [
+          {
+            "name": "Developer",
+            "startDate": "2014-09-01",
+            "competences": [
+              {
+                "name": "CSS",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "details": {
+          "name": "UniversalBackgroundApp",
+          "description": "A simple example of a Background Task that downloads a file every 6 hours",
+          "URL": "https://github.com/jmservera/UniversalBackgroundApp"
+        },
+        "type": "openSource",
+        "roles": [
+          {
+            "name": "Developer",
+            "startDate": "2014-08-01",
+            "competences": [
+              {
+                "name": "C#",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "details": {
+          "name": "ClientCache",
+          "description": "Some examples for client side caching in C# applications",
+          "URL": "https://github.com/jmservera/ClientCache"
+        },
+        "type": "openSource",
+        "roles": [
+          {
+            "name": "Developer",
+            "startDate": "2014-07-01",
+            "competences": [
+              {
+                "name": "C#",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "publicArtifacts": [
+      {
+        "details": {
+          "name": "Certificados Digitales de cliente en Windows 8 - MSDN España - Site Home - MSDN Blogs",
+          "description": "Windows 8 incorpora un nuevo modelo de seguridad por aislamiento para sus apps. Permite a las aplicaciones ejecutarse a muy bajo nivel en el sistema operativo, manteniendo unas restricciones de acceso muy altas. Cualquier acceso a elementos importantes del sistema debe ser declarado por el desarrollador y luego permitido explícitamente por el usuario.",
+          "URL": "http://blogs.msdn.com/b/esmsdn/archive/2012/10/05/certificados-digitales-de-cliente-en-windows-8.aspx"
+        },
+        "type": "post",
+        "publishingDate": "2005-01-01"
+      },
+      {
+        "details": {
+          "name": "A C# Refactoring Question",
+          "URL": "https://stackoverflow.com/questions/3022600/a-c-sharp-refactoring-question/3022709#3022709"
+        },
+        "type": "post",
+        "publishingDate": "2010-06-01"
+      },
+      {
+        "details": {
+          "name": "Top 20% at Stack Overflow answers",
+          "description": "This user is part of the top 20% Stack Overflow answerers in this technology"
+        },
+        "type": "achievement",
+        "publishingDate": "2022-03-04"
+      },
+      {
+        "details": {
+          "name": "How to create an Array or ArrayList of objects in C#?",
+          "URL": "https://stackoverflow.com/questions/3877026/how-to-create-an-array-or-arraylist-of-objects-in-c/3877036#3877036"
+        },
+        "type": "post",
+        "publishingDate": "2010-10-01"
+      },
+      {
+        "details": {
+          "name": "Launch a URL in a tab in an existing IE window from C#",
+          "URL": "https://stackoverflow.com/questions/3713206/launch-a-url-in-a-tab-in-an-existing-ie-window-from-c-sharp/3713470#3713470"
+        },
+        "type": "post",
+        "publishingDate": "2010-09-01"
+      },
+      {
+        "details": {
+          "name": "What is the difference between application server and web server?",
+          "URL": "https://stackoverflow.com/questions/936197/what-is-the-difference-between-application-server-and-web-server/936352#936352"
+        },
+        "type": "post",
+        "publishingDate": "2009-06-01"
+      },
+      {
+        "details": {
+          "name": "can I switch to 64bit",
+          "URL": "https://stackoverflow.com/questions/3941736/can-i-switch-to-64bit/3941762#3941762"
+        },
+        "type": "post",
+        "publishingDate": "2010-10-01"
+      },
+      {
+        "details": {
+          "name": "Top 5% at Stack Overflow answers",
+          "description": "This user is part of the top 5% Stack Overflow answerers in this technology"
+        },
+        "type": "achievement",
+        "publishingDate": "2022-03-04",
+        "relatedCompetences": [
+          {
+            "name": "C#",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "details": {
+          "name": "Programación para Windows Phone 7: Mejorar el rendimiento — Comunidad de diseño web y desarrollo en internet, Cristalab v4",
+          "description": "Este es un artículo de una serie dedicada al desarrollo de aplicaciones para Windows Phone 7 en Silverlight. Como primer ejemplo estamos creando una aplicación",
+          "URL": "http://www.cristalab.com/tutoriales/programacion-para-windows-phone-7-mejorar-el-rendimiento-c97700l/"
+        },
+        "type": "post",
+        "publishingDate": "2005-01-01"
+      },
+      {
+        "details": {
+          "name": "C# equivalent of the Ruby symbol",
+          "URL": "https://stackoverflow.com/questions/2347660/c-sharp-equivalent-of-the-ruby-symbol/2347728#2347728"
+        },
+        "type": "post",
+        "publishingDate": "2010-02-01"
+      },
+      {
+        "details": {
+          "name": "Is if(var == true) faster than if(var != false)?",
+          "URL": "https://stackoverflow.com/questions/3818933/is-ifvar-true-faster-than-ifvar-false/3819852#3819852"
+        },
+        "type": "post",
+        "publishingDate": "2010-09-01"
+      },
+      {
+        "details": {
+          "name": "Top 10% at Stack Overflow answers",
+          "description": "This user is part of the top 10% Stack Overflow answerers in these technologies"
+        },
+        "type": "achievement",
+        "publishingDate": "2022-03-04",
+        "relatedCompetences": [
+          {
+            "name": ".NET",
+            "type": "technology"
+          },
+          {
+            "name": "user-controls",
+            "type": "technology"
+          },
+          {
+            "name": "WinForms",
+            "type": "technology"
+          }
+        ]
+      }
+    ]
+  },
+  "knowledge": {
+    "studies": [
+      {
+        "studyType": "certification",
+        "degreeAchieved": true,
+        "name": "70-532 Developing Microsoft Azure Solutions",
+        "startDate": "2015-01-01",
+        "finishDate": "2015-01-01",
+        "institution": {
+          "name": "70-532 Developing Microsoft Azure Solutions"
+        },
+        "linkedCompetences": [
+          {
+            "name": "Microsoft",
+            "type": "technology"
+          },
+          {
+            "name": "Azure",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "studyType": "officialDegree",
+        "degreeAchieved": true,
+        "name": "ETIS",
+        "startDate": "2005-01-01",
+        "finishDate": "2005-01-01",
+        "institution": {
+          "name": "UOC"
+        }
+      }
+    ]
+  },
+  "careerPreferences": {
+    "contact": {
+      "publicProfiles": [
+        {
+          "type": "linkedin",
+          "URL": "https://www.linkedin.com/in/jmservera/"
+        },
+        {
+          "type": "other",
+          "URL": "https://stackoverflow.com/users/107102"
+        }
+      ]
+    },
+    "preferences": {
+      "preferredCompetences": [
+        {
+          "name": "C#",
+          "type": "technology"
+        },
+        {
+          "name": ".NET",
+          "type": "technology"
+        },
+        {
+          "name": "Azure",
+          "type": "technology"
+        }
+      ]
+    }
+  }
+}
