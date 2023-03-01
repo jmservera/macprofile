@@ -925,6 +925,11 @@
           "name": "C#",
           "type": "technology"
         }
+      ],
+      "preferredRoles": [
+        "DevOps & Infrastructure & SRE",
+        "Developer Evangelist & Advocate",
+        "Software Architect"
       ]
     },
     "status": "openToOffers"
