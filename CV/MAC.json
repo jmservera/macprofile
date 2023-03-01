@@ -831,6 +831,24 @@
       {
         "studyType": "certification",
         "degreeAchieved": true,
+        "name": "CKAD: Certified Kubernetes Application Developer",
+        "startDate": "2021-09-01",
+        "finishDate": "2024-09-01",
+        "institution": {
+          "name": "The Linux Foundation",
+          "description": "Earners of this designation demonstrated the skills, knowledge and competencies to perform the responsibilities of a Kubernetes Application Developer. Earners are able to define application resources and use core primitives to build, monitor, and troubleshoot scalable applications and tools in Kubernetes. The skills and knowledge demonstrated by earners include Core Concepts, Configuration, Multi-Container Pods, Observability, Pod Design, Services & Networking, State Persistence.",
+          "URL": "https://www.credly.com/badges/e09725c1-0f11-46f5-be9b-a4c9809991bd?source=linked_in_profile"
+        },
+        "linkedCompetences": [
+          {
+            "name": "Kubernetes",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "studyType": "certification",
+        "degreeAchieved": true,
         "name": "70-532 Developing Microsoft Azure Solutions",
         "startDate": "2015-01-01",
         "finishDate": "2015-01-01",
