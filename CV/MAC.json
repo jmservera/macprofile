@@ -830,6 +830,22 @@
       },
       {
         "studyType": "certification",
+        "degreeAchieved": false,
+        "name": "DAT203x: Data Science and Machine Learning Essentials",
+        "startDate": "2015-11-01",
+        "institution": {
+          "name": "Microsoft",
+          "URL": "https://courses.edx.org/certificates/cf0b275333b049dd95b0b70e619eaaed"
+        },
+        "linkedCompetences": [
+          {
+            "name": "Azure",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "studyType": "certification",
         "degreeAchieved": true,
         "name": "CKAD: Certified Kubernetes Application Developer",
         "startDate": "2021-09-01",
