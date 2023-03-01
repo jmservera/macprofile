@@ -1,7 +1,7 @@
 {
   "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.3/schema/schema.json",
   "settings": {
-    "language": "ES",
+    "language": "EN",
     "MACVersion": "0.3"
   },
   "aboutMe": {
@@ -9,14 +9,12 @@
       "name": "Juan Manuel",
       "surnames": "Servera Bondroit",
       "title": "Cloud Solution Architect at Microsoft",
-      "description": "",
       "avatar": {
         "alt": "profile-image",
         "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/04/05/84fb970b-eb97-4dc7-aa6e-4c3c1a0e5459_db790a53-feb2-42ba-9.507a74b00480d5ce636b181718b284ce"
       },
       "location": {
-        "country": "Suiza",
-        "notes": "Autocompleted using Google Maps API"
+        "country": "Suiza"
       }
     },
     "relevantLinks": [
@@ -61,12 +59,7 @@
         "roles": [
           {
             "name": "Sr. Cloud Solution Architect - App Innovation",
-            "startDate": "2020-10-01",
-            "challenges": [
-              {
-                "description": ""
-              }
-            ]
+            "startDate": "2020-10-01"
           }
         ]
       },
@@ -78,12 +71,7 @@
           {
             "name": "Sr. Partner Technical Strategist",
             "startDate": "2020-07-01",
-            "finishDate": "2020-10-01",
-            "challenges": [
-              {
-                "description": ""
-              }
-            ]
+            "finishDate": "2020-10-01"
           }
         ]
       },
@@ -95,12 +83,7 @@
           {
             "name": "Senior Cloud Solution Architect",
             "startDate": "2019-07-01",
-            "finishDate": "2020-07-01",
-            "challenges": [
-              {
-                "description": ""
-              }
-            ]
+            "finishDate": "2020-07-01"
           }
         ]
       },
@@ -112,12 +95,7 @@
           {
             "name": "Principal Technical Evangelist",
             "startDate": "2018-09-01",
-            "finishDate": "2019-07-01",
-            "challenges": [
-              {
-                "description": ""
-              }
-            ]
+            "finishDate": "2019-07-01"
           }
         ]
       },
@@ -130,11 +108,6 @@
             "name": "Technical Evangelist",
             "startDate": "2015-02-01",
             "finishDate": "2018-09-01",
-            "challenges": [
-              {
-                "description": ""
-              }
-            ],
             "competences": [
               {
                 "name": "ASP.net",
@@ -169,11 +142,6 @@
             "name": "Technical Manager",
             "startDate": "2010-10-01",
             "finishDate": "2015-02-28",
-            "challenges": [
-              {
-                "description": ""
-              }
-            ],
             "competences": [
               {
                 "name": ".NET",
@@ -282,12 +250,7 @@
           {
             "name": "IT Management",
             "startDate": "1997-01-01",
-            "finishDate": "2000-10-31",
-            "challenges": [
-              {
-                "description": ""
-              }
-            ]
+            "finishDate": "2000-10-31"
           }
         ]
       },
@@ -299,12 +262,7 @@
           {
             "name": "Tech sales",
             "startDate": "1992-01-01",
-            "finishDate": "1994-12-31",
-            "challenges": [
-              {
-                "description": ""
-              }
-            ]
+            "finishDate": "1994-12-31"
           }
         ]
       }
@@ -447,7 +405,6 @@
       {
         "details": {
           "name": "AllInOne",
-          "description": "",
           "URL": "https://github.com/jmservera/AllInOne"
         },
         "type": "openSource",
@@ -733,7 +690,6 @@
       {
         "details": {
           "name": "How to create an Array or ArrayList of objects in C#?",
-          "description": "",
           "URL": "https://stackoverflow.com/questions/3877026/how-to-create-an-array-or-arraylist-of-objects-in-c/3877036#3877036"
         },
         "type": "post",
@@ -742,7 +698,6 @@
       {
         "details": {
           "name": "can I switch to 64bit",
-          "description": "",
           "URL": "https://stackoverflow.com/questions/3941736/can-i-switch-to-64bit/3941762#3941762"
         },
         "type": "post",
@@ -751,7 +706,6 @@
       {
         "details": {
           "name": "Launch a URL in a tab in an existing IE window from C#",
-          "description": "",
           "URL": "https://stackoverflow.com/questions/3713206/launch-a-url-in-a-tab-in-an-existing-ie-window-from-c-sharp/3713470#3713470"
         },
         "type": "post",
@@ -760,7 +714,6 @@
       {
         "details": {
           "name": "Is if(var == true) faster than if(var != false)?",
-          "description": "",
           "URL": "https://stackoverflow.com/questions/3818933/is-ifvar-true-faster-than-ifvar-false/3819852#3819852"
         },
         "type": "post",
@@ -769,7 +722,6 @@
       {
         "details": {
           "name": "A C# Refactoring Question",
-          "description": "",
           "URL": "https://stackoverflow.com/questions/3022600/a-c-sharp-refactoring-question/3022709#3022709"
         },
         "type": "post",
@@ -778,7 +730,6 @@
       {
         "details": {
           "name": "C# equivalent of the Ruby symbol",
-          "description": "",
           "URL": "https://stackoverflow.com/questions/2347660/c-sharp-equivalent-of-the-ruby-symbol/2347728#2347728"
         },
         "type": "post",
@@ -787,7 +738,6 @@
       {
         "details": {
           "name": "What is the difference between application server and web server?",
-          "description": "",
           "URL": "https://stackoverflow.com/questions/936197/what-is-the-difference-between-application-server-and-web-server/936352#936352"
         },
         "type": "post",
@@ -816,20 +766,16 @@
   "knowledge": {
     "languages": [
       {
-        "name": "Catalan",
-        "level": "Native or bilingual proficiency"
+        "name": "Catalan"
       },
       {
-        "name": "English",
-        "level": "Full professional proficiency"
+        "name": "English"
       },
       {
-        "name": "French",
-        "level": "Full professional proficiency"
+        "name": "French"
       },
       {
-        "name": "Spanish",
-        "level": "Native or bilingual proficiency"
+        "name": "Spanish"
       }
     ],
     "hardSkills": [
@@ -867,13 +813,29 @@
     "studies": [
       {
         "studyType": "certification",
+        "degreeAchieved": false,
+        "name": "AZ-400 Microsoft Azure DevOps Solutions",
+        "startDate": "2019-11-01",
+        "institution": {
+          "name": "Microsoft",
+          "description": "Passing exam AZ-400: Designing and Implementing Microsoft DevOps Solutions validates the skills and knowledge to combine people, processes, and technologies to deliver valuable products and services that meet end-user needs and business objectives. Candidates optimize practices, improve communications, and create automation to streamline delivery. They design and implement strategies for application code and infrastructure for continuous integration, testing, delivery, monitoring and feedback.",
+          "URL": "https://www.credly.com/badges/320acbde-fcc6-4a4b-9fe3-e143a74d2086/linked_in_profile"
+        },
+        "linkedCompetences": [
+          {
+            "name": "Azure",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "studyType": "certification",
         "degreeAchieved": true,
         "name": "70-532 Developing Microsoft Azure Solutions",
         "startDate": "2015-01-01",
         "finishDate": "2015-01-01",
         "institution": {
-          "name": "70-532 Developing Microsoft Azure Solutions",
-          "description": ""
+          "name": "70-532 Developing Microsoft Azure Solutions"
         },
         "linkedCompetences": [
           {
@@ -893,8 +855,7 @@
         "startDate": "2005-01-01",
         "finishDate": "2005-01-01",
         "institution": {
-          "name": "UOC",
-          "description": ""
+          "name": "UOC"
         }
       }
     ]
@@ -932,7 +893,6 @@
         "Developer Evangelist & Advocate",
         "Software Architect"
       ]
-    },
-    "status": "openToOffers"
+    }
   }
 }
